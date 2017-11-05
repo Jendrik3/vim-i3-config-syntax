@@ -6,7 +6,7 @@ Syntax file and minimal `ftdetect` for [i3 Window Manager](https://i3wm.org/) co
 
 Use your favourite plugin manager.
 
-* [`vim-plug`](https://github.com/junegunn/vim-plug): `Plug 'moon-musick/vim-i3-syntax-file'`
-* [`Vundle`](https://github.com/VundleVim/Vundle.vim): `Plugin 'moon-musick/vim-i3-syntax-file'`
+* [`vim-plug`](https://github.com/junegunn/vim-plug): `Plug 'Jendrik3/vim-i3-config-syntax'`
+* [`Vundle`](https://github.com/VundleVim/Vundle.vim): `Plugin 'Jendrik3/vim-i3-config-syntax'`
 
 etc.
